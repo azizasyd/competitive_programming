@@ -14,10 +14,10 @@
 *.tmp
 
 # Ignore CMake build directory
-competitive_programming/cmake-build-debug/
+cmake-build-debug/
 
 # Ignore CMake API files
 .cmake/
 
 # Ignore IDE-specific files
-competitive_programming/.idea/
+.idea/
