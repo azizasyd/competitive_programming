@@ -5,7 +5,7 @@ void solve(){
     std::cin >> t;
 
     while(t--){
-        int n; // 1000
+        int n; // rating_1000
         std::cin >> n;
 
         int c1 = n / 3;
